@@ -12,6 +12,6 @@ function setup() {
 
 function draw() {
   background(255);
-  creature.move();
+ // creature.move();
   creature.draw();
 }
